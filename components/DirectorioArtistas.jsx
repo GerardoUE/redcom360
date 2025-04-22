@@ -1,6 +1,6 @@
 import React from "react";
 
-const DirectorioArtistas = () => {
+const Directory = () => {
   return (
     <section id="directorio" className="py-16 bg-light">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
